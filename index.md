@@ -1,3 +1,3 @@
 ## Welcome to my website!
 
-On the [next page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) I'll give you a quick tour about how this website is going to be used for now.
+Let me show you a [short video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) about how this website is going to be used for now.
